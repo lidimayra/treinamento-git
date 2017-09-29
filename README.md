@@ -1,7 +1,7 @@
 # Treinamento de Git e uso do Github
+A ideia deste treinamento é que os participantes realizem pequenas tarefas organizadas de forma sequencial. Eu acompanharei cada tarefa submetida e farei observações (se necessário).
 
-Gente, listei aqui alguns tópicos pra que possamos nos organizar.
-Vão surgir muitas dúvidas, certamente... me chameeem!
+As tarefas a serem realizadas estão cadastradas como [issues](https://github.com/lidimayra/treinamento-git/issues). Se houver qualquer dúvida na execução, sinta-se à vontade para perguntar nos comentários.
 
 # Setup ([?](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git))
 - [Download](https://git-scm.com/downloads)
